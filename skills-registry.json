@@ -8,5 +8,15 @@
     "name": "caveman",
     "description": "Cuts output tokens ~65% by responding in telegraphic style. Drops filler, keeps code intact.",
     "repo": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "name": "token-optimizer",
+    "description": "Reduces Claude token usage 60-80%. Stops thinking out loud, artifact-first editing, intent rectification on vague requests.",
+    "repo": "https://github.com/KINGSTAR-OMEGA/claude-token-optimizer"
+  },
+  {
+    "name": "hyperframes",
+    "description": "Write HTML compositions, render to MP4 video. Built for agents. GSAP timelines, Tailwind v4, TTS, background removal.",
+    "repo": "https://github.com/heygen-com/hyperframes"
   }
 ]
