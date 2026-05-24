@@ -13,9 +13,9 @@
   },
   {
     "name": "token-optimizer",
-    "slug": "KINGSTAR-OMEGA/claude-token-optimizer",
+    "slug": "alexgreensh/token-optimizer",
     "description": "Reduces token usage 60-80%, stops thinking out loud.",
-    "author": "KINGSTAR-OMEGA"
+    "author": "alexgreensh"
   },
   {
     "name": "hyperframes",
