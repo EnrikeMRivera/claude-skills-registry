@@ -1,22 +1,26 @@
 [
   {
     "name": "ui-ux-pro-max",
-    "description": "50+ UI styles, 97 color palettes, 99 UX guidelines for React, Next.js, Vue, SwiftUI, Flutter",
-    "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+    "slug": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "50+ UI styles, palettes, UX guidelines for major frameworks.",
+    "author": "nextlevelbuilder"
   },
   {
     "name": "caveman",
-    "description": "Cuts output tokens ~65% by responding in telegraphic style. Drops filler, keeps code intact.",
-    "repo": "https://github.com/JuliusBrussee/caveman"
+    "slug": "JuliusBrussee/caveman",
+    "description": "Cuts output tokens 65% using telegraphic style responses.",
+    "author": "JuliusBrussee"
   },
   {
     "name": "token-optimizer",
-    "description": "Reduces Claude token usage 60-80%. Stops thinking out loud, artifact-first editing, intent rectification on vague requests.",
-    "repo": "https://github.com/KINGSTAR-OMEGA/claude-token-optimizer"
+    "slug": "KINGSTAR-OMEGA/claude-token-optimizer",
+    "description": "Reduces token usage 60-80%, stops thinking out loud.",
+    "author": "KINGSTAR-OMEGA"
   },
   {
     "name": "hyperframes",
-    "description": "Write HTML compositions, render to MP4 video. Built for agents. GSAP timelines, Tailwind v4, TTS, background removal.",
-    "repo": "https://github.com/heygen-com/hyperframes"
+    "slug": "heygen-com/hyperframes",
+    "description": "Write HTML compositions, render to MP4 video.",
+    "author": "heygen-com"
   }
 ]
