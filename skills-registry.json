@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ui-ux-pro-max",
+    "description": "50+ UI styles, 97 color palettes, 99 UX guidelines for React, Next.js, Vue, SwiftUI, Flutter",
+    "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+  },
+  {
+    "name": "caveman",
+    "description": "Cuts output tokens ~65% by responding in telegraphic style. Drops filler, keeps code intact.",
+    "repo": "https://github.com/JuliusBrussee/caveman"
+  }
+]
